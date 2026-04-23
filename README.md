@@ -1,0 +1,1 @@
+farms XP in BTD6 by doing deflation mode on an expert map. only tested on my machine (2560x1440 monitor, fast forward mod set to 100x speed). may update to use OCR/image recognition to make more consistent later but idrk I just want to use github again cuz i forgot how
